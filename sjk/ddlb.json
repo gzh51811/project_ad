@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5c7cf14b1fbf20df66814d93"},"commodity":"iPhone 6p","classification":"手机","Title":"iPhone","freight":"12","describe":"挺不错的！","Price":3444,"Sale":3333,"Stock":"89","state":"ON","time":"2019/3/2","sex":"2","city":"201","sign":"20"}
+{"_id":{"$oid":"5c7cf14b1fbf20df66814d95"},"commodity":"iPhonxxx","classification":"手机","Title":"iPhone","freight":"19","describe":"挺不错的！","Price":3464,"Sale":3333,"Stock":"89","state":"ON","time":"2019/3/2","sex":"2","city":"301","sign":"60"}
+{"_id":{"$oid":"5c7cf14b1fbf20df88814d93"},"commodity":"vivo","classification":"手机","Title":"iPhone","freight":"12","describe":"挺不错的！","Price":3444,"Sale":3333,"Stock":"198","state":"ON","time":"2018/3/2","sex":"8","city":"901","sign":"20"}

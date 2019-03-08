@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5c78a59b446292da7df1a96b"},"uid":"1","Category":"电脑","time":"2019/2/28","Remarks":"头号玩家"}
+{"_id":{"$oid":"5c78a5c5446292da7df1a97c"},"uid":"2","Category":"手机","time":"2019/3/1","Remarks":"#####"}
+{"_id":{"$oid":"5c78a5d1446292da7df1a97e"},"uid":"3","Category":"配件","time":"2019/3/1","Remarks":"#####"}
+{"_id":{"$oid":"5c78a5dc446292da7df1a984"},"uid":"4","Category":"平板","time":"2019/3/1","Remarks":"#####"}
